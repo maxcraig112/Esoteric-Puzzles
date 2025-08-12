@@ -1,6 +1,6 @@
 # Esoteric-Puzzles
 
-**Esoteric Puzzle**
+> **Esoteric Puzzle**
 > A puzzle that is unique, unusual, or deliberately hard to understand, oftenrequiring niche knowledge, unconventional thinking, or hidden rules to solve.
 
 The purpose of this repository is to collect esoteric puzzles that provide a unique challenge compared to convention puzzles that most person might be familiar with.
