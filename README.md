@@ -10,7 +10,7 @@ This list will never be complete, but the aim is to continuously document intere
 
 
 # Unsorted list
-- [LOK](https://draknek.itch.io/lok-digital))
+- [LOK](https://draknek.itch.io/lok-digital)
 
 # Twists on a classic
 - [12 Word Searches](https://playcebo.itch.io/12-word-searches)
