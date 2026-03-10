@@ -13,6 +13,7 @@ This list will never be complete, but the aim is to continuously document intere
 - [LOK](https://draknek.itch.io/lok-digital)
 - [0PLAYER](https://caveadventure.itch.io/0player)
 - [Mosaic Retrospective](https://store.steampowered.com/app/4266120/2025_Mosaic_Retrospective/)
+- [2025](https://thomaswc.com/2025.html)
 
 # Twists on a classic
 - [12 Word Searches](https://playcebo.itch.io/12-word-searches)
