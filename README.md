@@ -18,8 +18,10 @@ This list will never be complete, but the aim is to continuously document intere
 # Twists on a classic
 - [12 Word Searches](https://playcebo.itch.io/12-word-searches)
 - [Cross Number](https://www.geocaching.com/geocache/GC56WYG)
-- [Super Sudoku](https://www.reddit.com/r/tenwordsofwisdom/comments/4xckvp/our_local_twower_yessoan_fixed_carys_super_sudoku/)
 
+## Sudoku
+- [Super Sudoku](https://www.reddit.com/r/tenwordsofwisdom/comments/4xckvp/our_local_twower_yessoan_fixed_carys_super_sudoku/)
+- [Super Sudokoid](https://sudokupad.app/68ek598lr7)
 # Daily Puzzles
 - [Minute Cryptic](https://www.minutecryptic.com/)
 - [Clues By Sam](https://cluesbysam.com)
