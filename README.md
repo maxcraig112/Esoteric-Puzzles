@@ -21,6 +21,9 @@ This list will never be complete, but the aim is to continuously document intere
 
 ## Sudoku
 - [Super Sudoku](https://www.reddit.com/r/tenwordsofwisdom/comments/4xckvp/our_local_twower_yessoan_fixed_carys_super_sudoku/)
+
+### Sudokupad
+Sudokupad is a website created by Sven Neumann (aka [Cracking the Cryptic](https://www.youtube.com/c/CrackingTheCryptic)) that contains a collection of a bunch of esoteric Sudokus. Some noteable ones (which we have personally attempted) include:
 - [Super Sudokoid](https://sudokupad.app/68ek598lr7)
 # Daily Puzzles
 - [Minute Cryptic](https://www.minutecryptic.com/)
