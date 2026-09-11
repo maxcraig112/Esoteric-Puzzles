@@ -17,7 +17,13 @@ This list will never be complete, but the aim is to continuously document intere
 
 # Twists on a classic
 - [12 Word Searches](https://playcebo.itch.io/12-word-searches)
+
+## Crosswords
 - [Cross Number](https://www.geocaching.com/geocache/GC56WYG)
+
+### Crosshare
+Crosshare is a website that contains open-source community submitted crossworks. Some noteable ones (which we have personally attempted) include:
+- [Why would you clue it like that](https://crosshare.org/crosswords/ns5EhMrYAMKaKTwv5lzP/why-would-you-clue-it-like-that-1)
 
 ## Sudoku
 - [Super Sudoku](https://www.reddit.com/r/tenwordsofwisdom/comments/4xckvp/our_local_twower_yessoan_fixed_carys_super_sudoku/)
