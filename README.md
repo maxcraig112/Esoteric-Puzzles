@@ -36,3 +36,6 @@ Sudokupad is a website created by Sven Neumann (aka [Cracking the Cryptic](https
 - [Clues By Sam](https://cluesbysam.com)
 - [Raddle](https://raddle.quest)
 - [Bracket City](https://www.theatlantic.com/games/bracket-city/)
+- [Fermi.gg](https://fermi.gg/)
+- [Krillion.io](https://krillion.io/)
+- [Size it up](https://magnitudle.com/size-it-up)
